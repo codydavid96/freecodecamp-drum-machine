@@ -3,4 +3,4 @@ Drum machine built for FreeCodeCamp.org
 
 This is a drum machine I built for FreeCodeCamp's curriculum
 
-https://codydavid96.github.io/freecodecamp-drum-machine/
+[Take a look at it here!](https://codydavid96.github.io/freecodecamp-drum-machine/)
